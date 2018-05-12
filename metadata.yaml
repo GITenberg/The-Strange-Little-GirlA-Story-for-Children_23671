@@ -1,0 +1,34 @@
+_repo: The-Strange-Little-GirlA-Story-for-Children_23671
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Tingley, Katherine Augusta Westcott
+    alias: Tingley, Katherine A. (Katherine Augusta)
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '25981'
+    url: http://www.gutenberg.org/2009/agents/25981
+covers:
+- cover_type: archival
+  image_path: 23671-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: V. M.
+    gutenberg_agent_id: '25980'
+    url: http://www.gutenberg.org/2009/agents/25980
+description: ''
+gutenberg_issued: '2007-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Theosophy -- Fiction'
+title: 'The Strange Little Girl
+
+  A Story for Children'
+url: http://www.gutenberg.org/ebooks/23671
