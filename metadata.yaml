@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '25980'
     url: http://www.gutenberg.org/2009/agents/25980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23671#The-Strange-Little-GirlA-Story-for-Children
 gutenberg_issued: '2007-12-01'
 gutenberg_type: Text
 identifiers:
